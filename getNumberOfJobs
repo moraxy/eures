@@ -1,5 +1,5 @@
 <HTML><HEAD>
-<TITLE>Redirect</TITLE>
+<TITLE>Network Error</TITLE>
 </HEAD>
 <BODY>
 <FONT face="Helvetica">
@@ -9,14 +9,14 @@
 <TABLE border=0 cellPadding=1 width="80%">
 <TR><TD>
 <FONT face="Helvetica">
-<big>Redirect (policy_request_redirect)</big>
+<big>Network Error (dns_unresolved_hostname)</big>
 <BR>
 <BR>
 </FONT>
 </TD></TR>
 <TR><TD>
 <FONT face="Helvetica">
-Click <a href="https:&#x2F;&#x2F;europa.eu&#x2F;eures&#x2F;eures-apps&#x2F;searchengine&#x2F;page&#x2F;statistics&#x2F;getNumberOfJobs">here</a> if you are not automatically redirected.
+Your requested host "ec.europa.eu" could not be resolved by DNS.
 </FONT>
 </TD></TR>
 <TR><TD>
