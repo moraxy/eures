@@ -1,1 +1,14 @@
-3255874
+<!DOCTYPE html>
+<html>
+<head>
+    <title>404 Not found</title>
+    <meta charset="UTF-8" />
+    <script>
+        let lang = new URLSearchParams(location.search).get("lang") || 'en';
+        let public_host = "https://europa.eu";
+        window.location.href = public_host + "/eures/portal/404?lang=" + lang
+    </script>
+</head>
+<body></body>
+</html>
+
