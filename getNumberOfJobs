@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>404 Not found</title>
-    <meta charset="UTF-8" />
-    <script>
-        let lang = new URLSearchParams(location.search).get("lang") || 'en';
-        let public_host = "https://europa.eu";
-        window.location.href = public_host + "/eures/portal/404?lang=" + lang
-    </script>
-</head>
-<body></body>
-</html>
-
+<html><body><h1>Whitelabel Error Page</h1><p>This application has no configured error view, so you are seeing this as a fallback.</p><div id='created'>Wed Nov 18 05:16:55 CET 2026</div><div>[3443153d-93073638] There was an unexpected error (type=Internal Server Error, status=500).</div></body></html>
